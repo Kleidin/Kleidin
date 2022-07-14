@@ -1,6 +1,6 @@
 ## Olá! eu sou o Yasser
 
-- 👀 Hoje estou estudando back-end
+- 👀 Hoje estou estudando front-end
 - 🌱 Testando JS
 - 💞️ Pronouns: ele/dele
 
